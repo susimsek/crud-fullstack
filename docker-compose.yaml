@@ -56,4 +56,4 @@ services:
     volumes:
       - ./nginx/nginx.conf:/etc/nginx/nginx.conf:Z
     ports:
-      - 81:80
+      - 80:80
