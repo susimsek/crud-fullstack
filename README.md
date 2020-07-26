@@ -22,7 +22,7 @@ Swagger Url : http://localhost/api/documentation/swagger-ui/
 
 ### App
 
-Swagger Url : http://localhost
+App Url : http://localhost
 
 <img src="https://github.com/susimsek/crud-fullstack/blob/master/images/app.png" alt="Spring Boot React App" width="50%" height="50%"/>
 
